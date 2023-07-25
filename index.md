@@ -1,6 +1,7 @@
 ---
-title: Welcome to my blog
+title: A
+tagline: I don't know what I'm doing...
 description: Testing and learning stuff...
 ---
 
-[First post](blog/_posts/2023-07-25-First-Steps)
+[First post](https://svulster.github.io/blog/2023/07/25/First-Steps.html)
