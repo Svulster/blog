@@ -1,5 +1,5 @@
 ---
-title: "First-steps"
+title: "First Steps"
 date: 2023-07-25
 ---
 
